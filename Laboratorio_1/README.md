@@ -7,8 +7,8 @@
 ## Descripción de las funciones realizadas
 
 ## Diseño de la herramienta
-La herramienta Marcador se diseñó y modeló en Inventor teniendo en cuenta las consideraciones necesarias para tal propósito, como las medidas del TCP del robot indicadas en el manual del mismo y las recomendaciones dadas por el profesor, luego se imprimió en una impresora 3D en material PLC. La herramienta consta de diferentes partes tales como: 
-- Una base para fijar con el TCP del robot.
+La herramienta Marcador se diseñó y modeló en Inventor teniendo en cuenta las consideraciones necesarias para tal propósito, como las medidas del flanche del robot indicadas en el manual del mismo y las recomendaciones dadas por el profesor, luego se imprimió en una impresora 3D en material PLC. La herramienta consta de diferentes partes tales como: 
+- Una base para fijar con el flanche del robot.
 - Dos ensambles que se puedieran acoplar para sostener el marcador.
 
 En la base se implementa una inclinación que ayuda a minimizar la aparición de ciertas singularidades del modelo.
