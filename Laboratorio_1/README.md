@@ -14,8 +14,7 @@ A continuación se puede observar dichos diseños desarrollados en inventor
 
 
 
-VIDEO QUE CONTIENE LA SIMULACIÓN EN ROBOTSTUDIO: https://drive.google.com/file/d/1l5AqhCKQn67HwOTo3Jvnj0UJlQcAK8Uz/view?usp=sharing
-Teniendo en cuenta ciertas recomendaciones del profesor, se observa que las dimensiones de la pieza real se desconocen por lo que se procede a la calibración usando el robot real obteniendo lo siguiente. 
+
 
 ![Coordenadas de calibracion](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/3d051c57-bb80-45f3-b590-ce7d17ed9c08)
 
