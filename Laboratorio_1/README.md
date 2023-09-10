@@ -1,7 +1,8 @@
-DISEÑO DE LA HERRAMIENTA
+DISEÑO DE LA HERRAMIENTA:
 La herramienta Marcador de diseñó y modeló en Inventor teniendo en cuenta las consideraciones necesarias para tal propósito, como las medidas del TCP del robot indicadas en el manual del mismo y por recomendaciones dadas por el profesor, y luego se imprimió en una impresora 3D en material PLC, la herramienta consta de diferentes partes tales como: 
 - Una base para fijar con el plato del robot.
 - Dos ensambles que se puedieran acoplar para sostener el marcador.
+
 En la base se implementa una inclinación que ayuda a minimizar la aprición de ciertas singularidades del modelo.
 
 A continuación se puede observar dichos diseños desarrollados en inventor
