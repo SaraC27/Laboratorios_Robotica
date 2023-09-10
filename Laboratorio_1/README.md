@@ -1,5 +1,5 @@
 ## Descripción de la solución planteada
-Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuyas dimensiones se definieron como 50 cm de largo, 24 cm de ancho y 10 cm de alto. Sobre la superficie del work object se extruyeron (hacia abajo) los nombres y las decoraciones solicitadas, es decir, que se visualizaba la información como si estuviera grabada en el work object. Luego se obtuvo la herramienta que sostendría el marcador, nuevamente haciendo uso de Inventor. El origen de la herramienta se tuvo que ajustar para que al momento de exportar el archivo al software RobotStudio, la herramienta quedara bien ubicada sobre el flanche del robot, una vez logrado esto, se definió la herramienta como TCP. De igual modo, se exportó el archivo del work object a RobotStudio y se definieron sus coordenadas, de manera que se desplazó desde el origen 500 mm en Y y 200 mm en Z. Después, se fijaron puntos (targets) sobre cada una de las letras y las decoraciones del work object para formar las trayectorias, una vez creadas las trayectorias se revisaron las configuraciones que el robot utilizaría para llegar a dichos puntos. Finalmente, se sincronizó la información de la estación con RAPID para obtener el código correspondiente; así mismo desde el módulo de RAPID también se definierpn algunos puntos sobre la trayectoria que seguiría el robot y se realizaron algunas modificciones para obtener la trayectoria final.
+Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuyas dimensiones se definieron como 50 cm de largo, 24 cm de ancho y 10 cm de alto. Sobre la superficie del work object se extruyeron (hacia abajo) los nombres y las decoraciones solicitadas, es decir, que se visualizaba la información como si estuviera grabada en el work object. Luego se obtuvo la herramienta que sostendría el marcador, nuevamente haciendo uso de Inventor. El origen de la herramienta se tuvo que ajustar para que al momento de exportar el archivo al software RobotStudio, la herramienta quedara bien ubicada sobre el flanche del robot, una vez logrado esto, se definió la herramienta como TCP. De igual modo, se exportó el archivo del work object a RobotStudio y se definieron sus coordenadas, de manera que se desplazó desde el origen 500 mm en Y y 200 mm en Z. Después, se fijaron puntos (targets) sobre cada una de las letras y las decoraciones del work object para formar las trayectorias, una vez creadas las trayectorias (con velocidad v50 y zona tolerable de errores z10 como recomendación del monitor del curso) se revisaron las configuraciones que el robot utilizaría para llegar a dichos puntos. Finalmente, se sincronizó la información de la estación con RAPID para obtener el código correspondiente; así mismo desde el módulo de RAPID también se definierpn algunos puntos sobre la trayectoria que seguiría el robot y se realizaron algunas modificciones para obtener la trayectoria final.
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/c392658d-5d9c-4129-b17d-b922b28ff7b1)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/717cc167-ac3e-410b-9199-add498f4b9f0)
@@ -7,8 +7,6 @@ Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuy
 
 ## Diagrama de flujo de acciones del robot
 ![Diagrama de flujo ROBOT (1)](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/b4b3f166-37b7-4e91-9eb6-ed34681a1e8d)
-
-
 
 
 ## Ubicación de cada uno de los elementos
@@ -19,6 +17,9 @@ Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuy
 
 
 ## Descripción de las funciones realizadas
+
+El robot inicia en su posición normal de home (definida por el fabricante), luego se dirige hacia el work object para empezar con la trayectoria Nombre1, que corresponde al nombre de Valentina, para esta primera trayectoria sólo se definieron movimientos lineales, es decir, solo se utilizó la función MoveL; una vez finalizada la primera trayectoria el robot se dirige hacia la segunda, que corresponde al nombre de Fernanda y para la cual se utilizó la función MoveC (región circular de la letra "R") además de la función MoveL; después de realizada la segunda trayectoria el robot inicia la trayectoria Decoraciones, que corresponde a una luna y a una estrella, para la realizar la forma de la luna se recurrió a la función MoveC y para la estrella la función MoveL. Al finalizar la trayectoria de las decoraciones, el robot vuelve a su posición normal de home. Cabe aclarar que las trayectorias se definieron de forma tal que se obtuvo una trayectoria final continua.
+
 
 ## Diseño de la herramienta
 La herramienta Marcador se diseñó y modeló en Inventor teniendo en cuenta las consideraciones necesarias para tal propósito, como las medidas del flanche del robot indicadas en el manual del mismo y las recomendaciones dadas por el profesor, luego se imprimió en una impresora 3D en material PLC. La herramienta consta de diferentes partes tales como: 
