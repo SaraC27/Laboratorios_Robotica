@@ -15,3 +15,16 @@ A continuación se puede observar dichos diseños desarrollados en inventor
 
 
 VIDEO QUE CONTIENE LA SIMULACIÓN EN ROBOTSTUDIO: https://drive.google.com/file/d/1l5AqhCKQn67HwOTo3Jvnj0UJlQcAK8Uz/view?usp=sharing
+Teniendo en cuenta ciertas recomendaciones del profesor, se observa que las dimensiones de la pieza real se desconocen por lo que se procede a la calibración usando el robot real obteniendo lo siguiente. 
+
+![Coordenadas de calibracion](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/3d051c57-bb80-45f3-b590-ce7d17ed9c08)
+
+Teniendo una vez la calibración y el montaje final de nuestra herramienta se realizó un diseño de la herramienta en Robotstudio, esto debido a que se requiere un modelo más aproximado a la realidad y poder realizar la programación de la rutina de desarrollar. 
+
+## Código en RAPID del módulo utilizado para desarrollar para práctica: computer:
+
+## Simulación en *RobotStdio* - implementación de la práctica con los robots reales: movie_camera:
+Primero se procedio a crear la herramienta en Robotstudio, 
+## Descripción de la solución planteada :page_facing_up:
+
+## 
