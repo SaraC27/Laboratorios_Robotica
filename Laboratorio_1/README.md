@@ -1,4 +1,12 @@
-DISEÑO DE LA HERRAMIENTA:
+## Descripción de la solución planteada
+
+## Diagrama de flujo de acciones del robot
+
+## Ubicación de cada uno de los elementos
+
+## Descripción de las funciones realizadas
+
+## Diseño de la herramienta
 La herramienta Marcador se diseñó y modeló en Inventor teniendo en cuenta las consideraciones necesarias para tal propósito, como las medidas del TCP del robot indicadas en el manual del mismo y las recomendaciones dadas por el profesor, luego se imprimió en una impresora 3D en material PLC. La herramienta consta de diferentes partes tales como: 
 - Una base para fijar con el TCP del robot.
 - Dos ensambles que se puedieran acoplar para sostener el marcador.
@@ -12,18 +20,14 @@ A continuación se puede observar dichos diseños desarrollados en inventor
 ![Tool_3](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/10028122-7fc2-4645-98de-cee11080837f)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/a5f6b01f-b27d-46e9-b1b4-ae53091757f0)
 
-
-
-
+Teniendo en cuenta ciertas recomendaciones del profesor, se observa que las dimensiones de la pieza real se desconocen por lo que se procede a la calibración usando el robot real obteniendo lo siguiente.
 
 ![Coordenadas de calibracion](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/3d051c57-bb80-45f3-b590-ce7d17ed9c08)
 
-Teniendo una vez la calibración y el montaje final de nuestra herramienta se realizó un diseño de la herramienta en Robotstudio, esto debido a que se requiere un modelo más aproximado a la realidad y poder realizar la programación de la rutina de desarrollar. 
+Teniendo una vez la calibración y el montaje final de nuestra herramienta se realizó un diseño de la herramienta en Robotstudio, esto debido a que se requiere un modelo más aproximado a la realidad y poder realizar la programación de la rutina de desarrollar.
 
-## Código en RAPID del módulo utilizado para desarrollar para práctica: computer:
+## Código en RAPID del módulo utilizado para el desarrollo de la práctica
+Por favor dirigirse al archivo Module1.mod en la carpeta Laboratorio_1
 
-## Simulación en *RobotStdio* - implementación de la práctica con los robots reales: movie_camera:
-Primero se procedio a crear la herramienta en Robotstudio, 
-## Descripción de la solución planteada :page_facing_up:
-
-## 
+## Video que contiene la simulación en RobotStudio :movie_camera:
+https://drive.google.com/file/d/1l5AqhCKQn67HwOTo3Jvnj0UJlQcAK8Uz/view?usp=sharing
