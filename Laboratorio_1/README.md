@@ -6,6 +6,7 @@ Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuy
 
 
 ## Diagrama de flujo de acciones del robot
+![Diagrama de flujo ROBOT (1)](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/b4b3f166-37b7-4e91-9eb6-ed34681a1e8d)
 
 
 
