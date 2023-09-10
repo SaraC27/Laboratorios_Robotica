@@ -1,3 +1,2 @@
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/bf1d1e04-7ccd-4dd2-8a47-a2fb36c3d50a)
-
-La herramienta Marcador de diseñó en Inventor y luego se imprimió en una impresora 3D en material PLC.
+DISEÑO DE LA HERRAMIENTA
+La herramienta Marcador de diseñó y modeló en Inventor teniendo en cuenta las consideraciones necesarias para tal propósito, como las medidas del TCP del robot indicadas en el manual del mismo, y luego se imprimió en una impresora 3D en material PLC.
