@@ -44,5 +44,5 @@ Teniendo una vez la calibración y el montaje final de nuestra herramienta se re
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica
 Por favor dirigirse al archivo Module1.mod en la carpeta Laboratorio_1
 
-## Video que contiene la simulación en RobotStudio :movie_camera:
-https://drive.google.com/file/d/1l5AqhCKQn67HwOTo3Jvnj0UJlQcAK8Uz/view?usp=sharing
+## Videos que contienen la simulación en RobotStudio :movie_camera:
+https://drive.google.com/drive/folders/1_q2ComkOtEDuVpLc0pL8nuyJgHI1GPel?usp=drive_link
