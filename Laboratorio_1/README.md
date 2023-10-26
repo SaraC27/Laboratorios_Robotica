@@ -2,8 +2,8 @@
 
 Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuyas dimensiones se definieron como 50 cm de largo, 24 cm de ancho y 10 cm de alto. Sobre la superficie del work object se extruyeron (hacia abajo) los nombres y las decoraciones solicitadas, es decir, que se visualizaba la información como si estuviera grabada en el work object. Luego se obtuvo la herramienta que sostendría el marcador, nuevamente haciendo uso de Inventor. El origen de la herramienta se tuvo que ajustar para que al momento de exportar el archivo (.sat) al software RobotStudio, la herramienta quedara bien ubicada sobre el flanche del robot, una vez logrado esto, se definió la herramienta como TCP. De igual modo, se exportó el archivo (.sat) del work object a RobotStudio y se definieron sus coordenadas, de manera que se desplazó desde el origen 500 mm en Y y 200 mm en Z. Después, se fijaron puntos (targets) sobre cada una de las letras y las decoraciones del work object para formar las trayectorias, una vez creadas las trayectorias (con velocidad v50 y zona tolerable de errores z10 como recomendación del monitor del curso) se revisaron las configuraciones que el robot utilizaría para llegar a dichos puntos. Finalmente, se sincronizó la información de la estación con RAPID para obtener el código correspondiente; así mismo desde el módulo de RAPID también se definieron algunos puntos sobre la trayectoria que seguiría el robot y se realizaron algunas modificciones para obtener la trayectoria final.
 
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/c392658d-5d9c-4129-b17d-b922b28ff7b1)
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/717cc167-ac3e-410b-9199-add498f4b9f0)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/fb979199-7358-453f-a786-6196f4193486)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/f10a8b26-a488-42a1-b13e-acead0ced0d0)
 
 
 ## Diagrama de flujo de acciones del robot
