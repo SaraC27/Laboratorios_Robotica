@@ -13,9 +13,9 @@ Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuy
 
 ## Ubicación de cada uno de los elementos
 
-![Plano1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/56067359-fae7-4b0e-9e7b-83fdd8203b8e)
-![Plano2](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/57afada9-6bd2-4b67-8369-3f33c3a65188)
-![Plano3](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/0295d575-5fcb-4774-926b-01f05349402f)
+![Plano1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/6bc20c1e-7503-4493-bd36-39dd70de34a8)
+![Plano2](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/80606b53-6c43-47d9-911d-2ff8c9f29796)
+![Plano3](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/13ef1f50-4040-410f-b6df-645baea4226f)
 
 
 ## Descripción de las funciones realizadas
