@@ -1,4 +1,5 @@
 ## Descripción de la solución planteada
+
 Teniendo en cuenta que se debía implementar una rutina de escritura, se decidió utilizar los resultados obtenidos y el desarrollo llevado a cabo para el primer laboratorio en RobotStudio (herramienta TCP, work object y código en RAPID que incluía las trayectorias Nombre1, Nombre2 y Decoraciones). 
 
 Una vez implementada la rutina de escritura, se procedió a definir las posiciones de home para la misma. La primera posición de home que se programó (Home1) fue la posición inicial del robot (definida por el fabricante), es decir con la articulación 5 rotada 30°, y la segunda posición de home programada (Home2) fue la indicada por el enunciado de este laboratorio, es decir que todos los ángulos articulares del robot eran 0°. Seguidamente se definieron las trayectorias Homing (Homing1 y Homing2), cuya función fue conducir al robot a las posiciones de Home establecidas anteriormente. 
@@ -11,5 +12,9 @@ En resumen, lo que el programa pretendía era llevar a cabo o la rutina de escri
 
 Finalmente se implementó el código de RAPID y se ejecutó el programa en los robots del laboratorio, para lo cual se debieron ajustar los nombres de las entradas y salidas digitales de acuerdo con la disponibilidad de éstas en cada uno de los robots.
 
+![Resultado Práctica](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/f5b3968c-1bcb-49d8-887f-0aa1ab0fa0f3)
+
+
 ## Videos que contienen la simulación en RobotStudio y la práctica en el LabSIR :movie_camera:
-https://drive.google.com/drive/folders/1NU7cCsWyjhN24No5R3J0wLaSlj-oOsbE?usp=drive_link
+
+https://drive.google.com/drive/folders/1NU7cCsWyjhN24No5R3J0wLaSlj-oOsbE?usp=drive_link.
