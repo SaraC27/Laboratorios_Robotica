@@ -44,9 +44,12 @@ Teniendo en cuenta ciertas recomendaciones del profesor, se observa que las dime
 
 Teniendo una vez la calibración y el montaje final de nuestra herramienta se realizó un diseño de la herramienta en Robotstudio, esto debido a que se requiere un modelo más aproximado a la realidad y poder realizar la programación de la rutina de desarrollar.
 
+
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica
 
 Por favor dirigirse al archivo Module1.mod en la carpeta Laboratorio_1.
 
+
 ## Videos que contienen la simulación en RobotStudio :movie_camera:
+
 https://drive.google.com/drive/folders/1_q2ComkOtEDuVpLc0pL8nuyJgHI1GPel?usp=drive_link.
