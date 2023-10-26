@@ -18,7 +18,7 @@ Después se programó la pose de mantenimiento del robot, por medio de la defini
 Luego se definieron 2 entradas digitales y 2 salidas digitales, siguiendo las instrucciones proporcionadas en la Guía 4 de RobotStudio suministrada en la plataforma Moodle. Posteriormente, se redactaron las instrucciones del programa a ejecutar teniendo en cuenta los ejemplos en código facilitados en el enunciado de este laboratorio. Inicialmente se programaron las instrucciones utilizando condicionales pero sin utillizar ciclos, sin embargo, con la intención de que el programa no se ejecutara solo 1 vez se recurrió a un ciclo While. De esta forma, el programa podía ejecutarse varias veces según se cumplían las condiciones de los condicionales If.
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/bc6dc085-c1b4-4034-88ce-9d516ae41854)
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/76458dab-ec87-4598-9d00-f5bbe9f44509)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/b14d5f8b-e870-49f3-a73a-7c11d913ce9d)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/e110119b-4557-43e2-8596-4636acc6759c)
 
 En resumen, lo que el programa pretendía era llevar a cabo o la rutina de escritura o la rutina de pose en mantenimiento, según la entrada digital que se activara. A su vez, una salida digital acompañaba a la rutina en desarrollo encendiéndose al iniciar y apagándose al finalizar la misma. Adicionalmente, en la pantalla del FlexPendant se visualizaba escrito lo que el programa iba haciendo.
