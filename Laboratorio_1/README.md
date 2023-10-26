@@ -20,7 +20,14 @@ Inicialmente, se modeló el work object (en este caso la torta) en Inventor, cuy
 
 ## Descripción de las funciones realizadas
 
-El robot inicia en su posición normal de home (definida por el fabricante), luego se dirige hacia el work object para empezar con la trayectoria Nombre1, que corresponde al nombre de Valentina, para esta primera trayectoria sólo se definieron movimientos lineales, es decir, solo se utilizó la función MoveL; una vez finalizada la primera trayectoria el robot se dirige hacia la segunda, que corresponde al nombre de Fernanda y para la cual se utilizó la función MoveC (región circular de la letra "R") además de la función MoveL; después de realizada la segunda trayectoria el robot inicia la trayectoria Decoraciones, que corresponde a una luna y a una estrella, para la realizar la forma de la luna se recurrió a la función MoveC y para la estrella la función MoveL. Al finalizar la trayectoria de las decoraciones, el robot vuelve a su posición normal de home. Cabe aclarar que las trayectorias se definieron de forma tal que se obtuvo una trayectoria final continua.
+El robot inicia en la posición de home definida por el fabricante (los ángulos articulares corresponden a 0, 0, 0, 0, 30 y 0 grados), luego se dirige hacia el work object (torta) para empezar con la trayectoria Nombre1, que corresponde al nombre de Valentina, para esta primera trayectoria sólo se definieron movimientos lineales, es decir, solo se utilizó la función MoveL (esta instrucción mueve el robot en una línea recta desde su posición actual hasta la posición especificada); una vez finalizada la primera trayectoria el robot se dirige hacia la segunda, que corresponde al nombre de Fernanda y para la cual se utilizó la función MoveC (esta instrucción mueve el robot en círculo describiendo un arco desde su posición actual hasta la posición especificada) en la región circular de la letra "R", además de la función MoveL; después de realizada la segunda trayectoria el robot inicia la trayectoria Decoraciones, que corresponde a una luna y a una estrella, para la realizar la forma de la luna se recurrió a la función MoveC y para la estrella la función MoveL. Al finalizar la trayectoria de las decoraciones, el robot vuelve a su posición normal de home. Cabe aclarar que las trayectorias se definieron de forma tal que se obtuvo una trayectoria final continua.
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/f302b733-5d41-47cb-b7cb-ada138a32136)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cc5c0b96-6b91-4598-894b-79b1a24e2e90)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/d6c95aea-f7da-49fb-9136-0f8b29cd9373)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/5736d56b-9634-4576-9ab6-ef709586fae9)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/73f882e1-3b5e-4678-91dc-e2d2e43c5c0d)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/2fa63541-d0e7-4110-8003-21210d1ee951)
 
 
 ## Diseño de la herramienta
@@ -47,7 +54,9 @@ Teniendo una vez la calibración y el montaje final de nuestra herramienta se re
 
 ## Código en RAPID del módulo utilizado para el desarrollo de la práctica
 
-Por favor dirigirse al archivo Module1.mod en la carpeta Laboratorio_1.
+Por favor dirigirse al archivo Module1.mod en la carpeta Laboratorio_1 del repositorio.
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/76580a54-d373-4726-8728-dcce1cb7990b)
 
 
 ## Videos que contienen la simulación en RobotStudio :movie_camera:
