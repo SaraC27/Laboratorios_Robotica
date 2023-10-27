@@ -1,1 +1,7 @@
+## Metodología
 
+## Resultados
+
+## Análisis
+
+## Conclusiones
