@@ -8,6 +8,8 @@ Luego, se suscribio al tema /turtle1/pose, lo que permitió observar las variabl
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/de7fd856-c1f8-42ac-877f-a5cb08d56abf)
 
+El nodo maestro se finaliza en matlab con el comando rosshutdown, el cual es crucial para poder finalizar adecuadamente la comunicación con ROS y liberar los recursos utilizados por el nodo maestro, por lo cual se asegura de que todos los nodos de MATLAB conectados a ROS se cierren correctamente, lo que evita posibles problemas de conexión y liberación inadecuada de recursos del sitema.
+
 ## Resultados
 
 ## Análisis
