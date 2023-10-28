@@ -32,10 +32,13 @@ El nodo maestro se finaliza en MATLAB con el comando rosshutdown, el cual es cru
 Si se presionaba la tecla "w", la tortuga se movía hacia adelante, y si se presionaba la tecla "s" la torgura se movía hacia atrás. Igualemente si se presionanban las teclas "d" y "a" la tortuga giraba en sentido horario o antihorario respectivamente.
 
 
+
+
 ## Análisis
 
-El sistema operativo ROS ofrece varias y distintas funciones
+
 
 
 ## Conclusiones
 
+El sistema operativo ROS ofrece varias y distintas funciones orientadas al manejo y control de robots
