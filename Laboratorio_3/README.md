@@ -37,11 +37,10 @@ El nodo turtlesim ofrece los tópicos suscritos (permiten indicar la velocidad l
 ![Imagen de WhatsApp 2023-10-28 a las 03 07 09_6c580d39](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/9e83ca2c-2dc1-436d-854e-7913426fd6b0)
 
 Si se presionaba la tecla "w", la tortuga se movía hacia adelante, y si se presionaba la tecla "s" la torgura se movía hacia atrás. Igualemente si se presionanban las teclas "d" y "a" la tortuga giraba en sentido horario o antihorario respectivamente.
-
-Por favor dirigirse a los archivos Laboratorio3.m (MATLAB) y myTeleopKey.py (Python) en la carpeta Laboratorio_3 del repositorio para mayor detalle sobre los códigos implementados.
-
 Por favor dirigirse al siguiente link para visualizar el video de la simulación de la práctica:
 https://drive.google.com/drive/folders/1gm--aq-o3SaxV7LvqiZTHWWPQCr9gB-z?usp=drive_link
+
+Por favor dirigirse a los archivos Laboratorio3.m (MATLAB) y myTeleopKey.py (Python) en la carpeta Laboratorio_3 del repositorio para mayor detalle sobre los códigos implementados.
 
 
 ## Análisis
