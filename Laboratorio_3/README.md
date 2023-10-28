@@ -12,15 +12,30 @@ Después, se llevó a cabo en MATLAB un script para suscrbirse al tópico de pos
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/8c1af787-6e80-4a53-886a-dac441e16495)
 
-Posteriormente, se desarrolló en MATLAB un script para enviar todos los valores asociados a la pose de la tortuga, por lo que se implementó la función rospubliser.
+Así mismo, se desarrolló en MATLAB un script para enviar todos los valores asociados a la pose de la tortuga, por lo que se implementó la función rospubliser.
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/de7fd856-c1f8-42ac-877f-a5cb08d56abf)
+
+Posteriormente, se descagaron los archivos del repositorio indicado en la guía del laboratorio y se procedió a implementar un código, que cumpliera con las espeficaciones y basado en la información brindada, para operar los movimientos de la tortuga por medio de las teclas del teclado del computador.
+
+![Imagen de WhatsApp 2023-10-28 a las 02 07 46_9a7b8e00](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/18070737-a8ca-486d-b749-fb25b5dba74c)
+
+Finalmente, siguiendo las instrucciones proporcionadas en la guía del laboratorio se puso en práctica el código obtenido, para lo cual fue necesario lanzar 3 terminales, y una vez se hubieran ejecutado correctamente las instrucciones, se debían presionar las respectivas teclas de forma que se observa el correspondiente movimiento de la tortuga.
+
+![Imagen de WhatsApp 2023-10-28 a las 01 33 02_d06d8906](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/478c44c5-8527-4029-bc0e-a35bd284d256)
 
 
 ## Resultados
 
 El nodo maestro se finaliza en MATLAB con el comando rosshutdown, el cual es crucial para poder finalizar adecuadamente la comunicación con ROS y liberar los recursos utilizados por el nodo maestro, por lo que se asegura de que todos los nodos de MATLAB conectados a ROS se cierren correctamente, evitando así posibles problemas de conexión y liberación inadecuada de los recursos del sitema.
 
+Si se presionaba la tecla "w", la tortuga se movía hacia adelante, y si se presionaba la tecla "s" la torgura se movía hacia atrás. Igualemente si se presionanban las teclas "d" y "a" la tortuga giraba en sentido horario o antihorario respectivamente.
+
+
 ## Análisis
 
+El sistema operativo ROS ofrece varias y distintas funciones
+
+
 ## Conclusiones
+
