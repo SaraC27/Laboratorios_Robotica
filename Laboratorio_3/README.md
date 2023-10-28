@@ -44,10 +44,7 @@ Por favor dirigirse a los archivos Laboratorio3.m (MATLAB) y myTeleopKey.py (Pyt
 
 
 ## Análisis
-
-La conexión entre MATLAB y ROS presenta en algunas ocasiones problemas o errores, especialmente cuando se intenta hacer la conexión desde 2 sistemas operativos diferentes como Windows y Linux, por esta razón se optó por la instlación de ROS y MATLAB en la misma máquina virtual.
-
+La conexión entre MATLAB y ROS, es una herramienta muy poderosa, sin embargo, se presentan diferentes dasafíos, especialmente al intentar establecer la comunicación entre dos sistemas operativos diferentes, como Windows y Linux. Este problema puede dio lugar a errores y obstáculos significativos en la implementación exitosa de la comunicación entre ambas plataformas. Como resultado, se optó por la solución de instalar tanto ROS como MATLAB en la misma máquina virtual, lo que facilitó la interacción fluida entre los dos entornos y minimizó los posibles problemas de la compatibilidad.  
 
 ## Conclusiones
-
-El sistema operativo ROS ofrece varias y distintas funciones orientadas al manejo y control de robots, sin embargo, se deben conocer estas funciones ofrecidas para poder emplearlas de manera eficiente y sacarle el mejor provecho a esta herramienta.
+El entorno operativo de ROS ofrece una amplia gama de funciones destinadas al control y manejo de robots en diversas aplicaciones. Sin embargo, se requiere un conocimiento profundo de estas funciones para utilizarlas de manera eficiente y aprovechar al máximo esta herramienta. La necesidad de comprender la iteracción entre diferentes sistemas operativos y plataformas subraya la importancia de planificación y configuración adecuada del entorno de desarrollo, especialmente al trabajar con sistemas complejos que requieren una integración perfecta entre distintos componentes. 
