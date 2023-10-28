@@ -29,7 +29,12 @@ Finalmente, siguiendo las instrucciones proporcionadas en la guía del laborator
 
 El nodo maestro se finaliza en MATLAB con el comando rosshutdown, el cual es crucial para poder finalizar adecuadamente la comunicación con ROS y liberar los recursos utilizados por el nodo maestro, por lo que se asegura de que todos los nodos de MATLAB conectados a ROS se cierren correctamente, evitando así posibles problemas de conexión y liberación inadecuada de los recursos del sitema.
 
+![Imagen de WhatsApp 2023-10-28 a las 03 01 34_4ae7953d](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/d0a80b33-bd89-4d49-b500-369a7c10ca12)
+
 El nodo turtlesim ofrece los tópicos suscritos (permiten indicar la velocidad lineal y angular de la tortuga) y los tópicos publicados (permiten indicar la pose de la tortuga), éstos son útiles para enviar u obtener información de la simulación de la tortuga.
+
+![Imagen de WhatsApp 2023-10-28 a las 03 05 18_92a086ea](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cab50859-1ad6-4299-8edf-6bfaae91628c)
+![Imagen de WhatsApp 2023-10-28 a las 03 07 09_6c580d39](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/9e83ca2c-2dc1-436d-854e-7913426fd6b0)
 
 Si se presionaba la tecla "w", la tortuga se movía hacia adelante, y si se presionaba la tecla "s" la torgura se movía hacia atrás. Igualemente si se presionanban las teclas "d" y "a" la tortuga giraba en sentido horario o antihorario respectivamente.
 
