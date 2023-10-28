@@ -29,16 +29,21 @@ Finalmente, siguiendo las instrucciones proporcionadas en la guía del laborator
 
 El nodo maestro se finaliza en MATLAB con el comando rosshutdown, el cual es crucial para poder finalizar adecuadamente la comunicación con ROS y liberar los recursos utilizados por el nodo maestro, por lo que se asegura de que todos los nodos de MATLAB conectados a ROS se cierren correctamente, evitando así posibles problemas de conexión y liberación inadecuada de los recursos del sitema.
 
+El nodo turtlesim ofrece los tópicos suscritos (permiten indicar la velocidad lineal y angular de la tortuga) y los tópicos publicados (permiten indicar la pose de la tortuga), éstos son útiles para enviar u obtener información de la simulación de la tortuga.
+
 Si se presionaba la tecla "w", la tortuga se movía hacia adelante, y si se presionaba la tecla "s" la torgura se movía hacia atrás. Igualemente si se presionanban las teclas "d" y "a" la tortuga giraba en sentido horario o antihorario respectivamente.
 
+Por favor dirigirse a los archivos Laboratorio3.m (MATLAB) y myTeleopKey.py (Python) en la carpeta Laboratorio_3 del repositorio para mayor detalle sobre los códigos implementados.
 
+Por favor dirigirse al siguiente link para visualizar el video de la simulación de la práctica:
+https://drive.google.com/drive/folders/1gm--aq-o3SaxV7LvqiZTHWWPQCr9gB-z?usp=drive_link
 
 
 ## Análisis
 
-
+La conexión entre MATLAB y ROS presenta en algunas ocasiones problemas o errores, especialmente cuando se intenta hacer la conexión desde 2 sistemas operativos diferentes como Windows y Linux, por esta razón se optó por la instlación de ROS y MATLAB en la misma máquina virtual.
 
 
 ## Conclusiones
 
-El sistema operativo ROS ofrece varias y distintas funciones orientadas al manejo y control de robots
+El sistema operativo ROS ofrece varias y distintas funciones orientadas al manejo y control de robots, sin embargo, se deben conocer estas funciones ofrecidas para poder emplearlas de manera eficiente y sacarle el mejor provecho a esta herramienta.
