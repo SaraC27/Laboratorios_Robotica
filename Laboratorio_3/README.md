@@ -48,6 +48,8 @@ Por favor dirigirse a los archivos Laboratorio3.m (MATLAB) y myTeleopKey.py (Pyt
 
 La conexión entre MATLAB y ROS es una herramienta muy útil, sin embargo, se presentan diferentes dasafíos, especialmente al intentar establecer la comunicación entre dos sistemas operativos diferentes, como Windows y Linux. Este problema dio lugar a errores y obstáculos significativos en la implementación exitosa de la comunicación entre ambas plataformas. En consecuencia, se optó por la solución de instalar tanto ROS como MATLAB en la misma máquina virtual, lo que facilitó la interacción fluida entre los dos entornos y minimizó los posibles problemas de la compatibilidad.
 
+Por otra parte, cabe destacar que el nodo "turtlesim" de ROS se puede manejar a partir de instrucciones implementadas en diferentes lenguajes de programación, pues como se pudo evidenciar en esta práctica, se ejecutaron scripts de MATLAB y además se corrió un código utilizando Python, a lo cual la simulación de la tortuga respondió de la forma que se esperaba.
+
 
 ## Conclusiones
 
