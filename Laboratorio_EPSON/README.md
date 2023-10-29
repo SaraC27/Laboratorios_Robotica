@@ -1,6 +1,6 @@
 ## Código del programa implementado para la práctica
 
-Por favor dirigirse al archivo Main.prg de la carpeta Laboratorio_EPSON en el repositorio.
+Por favor dirigirse al archivo Main.prg en la carpeta Laboratorio_EPSON del repositorio.
 
 
 ## Videos que contienen la práctica en la oficina de EPSON :movie_camera:
