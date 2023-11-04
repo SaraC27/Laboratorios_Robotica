@@ -1,4 +1,4 @@
-## Código del script utilizado para la práctica
+## Código del script utilizado para el desarrollo de la práctica
 
 
 ## Videos del brazo alcanzando cada posición
