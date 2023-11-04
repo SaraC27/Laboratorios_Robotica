@@ -14,6 +14,7 @@ https://drive.google.com/drive/folders/1OD4kVfzgjRY9K-GjNyfgDDa5MIRVHVsy?usp=dri
 
 Incialmente, se establecieron las longitudes de los eslabones para cada articulación del robot utilizando un calibrador pie de rey.
 
+![Robot](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/ff02a02f-cdce-41af-ba46-bd87983f4690)
 ![Punto1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/eb881da1-0ec9-4f3c-add0-fde869069fad)
 
 Luego, teniendo en cuenta las mediciones tomadas, se obtuvieron los parámetros Denavit Hartenberg del robot y se generó el diagrama del robot en MATLAB.
