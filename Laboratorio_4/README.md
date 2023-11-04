@@ -25,7 +25,7 @@ Después, se obtuvo la matriz de transformación homogénea desde la base hasta 
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/15c57995-240c-4aa1-b61a-988eaeadeb53)
 
-Posteriormente, se graficaron distintas posiciones del robot en las que se rotaba sólo una de las articulaciones, así mismo se graficó el robot en su posición de home.
+Posteriormente, se graficó el robot en su posición de home y así mismo se graficaron distintas posiciones del robot en las que se rotaba sólo una de las articulaciones.
 
 ![Punto1Home](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/8a03520d-61ac-4c30-ad12-1987302d98b8)
 ![Punto1Posición1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/9f8ce538-c6eb-4c85-a422-1b16b32dea88)
