@@ -1,11 +1,10 @@
 ## Código del script utilizado para el desarrollo de la práctica
 
+Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del repositorio.
 
-## Videos del brazo alcanzando cada posición
+## Videos del brazo alcanzando cada posición y demostración de uso de la interfaz de usuario 📹
 
-
-## Video demostración de uso de la interfaz de usuario
-
+https://drive.google.com/drive/folders/1OD4kVfzgjRY9K-GjNyfgDDa5MIRVHVsy?usp=drive_link
 
 ## Gráfica digital de las poses comparándola con la fotografía del brazo real en la misma configuración
 
