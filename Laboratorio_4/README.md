@@ -34,5 +34,7 @@ Posteriormente, se graficó el robot en su posición de home y así mismo se gra
 ![Punto1Posición3](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/7d08f123-9683-447e-8cd1-d08a6fbc7f7c)
 ![Punto1Posición4](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/e8d3c623-6549-41b1-9844-be657765fb8a)
 
+A continuación, se realizó la conexión entre el robot y MATLAB por medio de las funciones que ofrecen las librerías de Dynamixel, así se conoció la posición objetivo y la posición presente de cada una de las articulaciones.
+
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/be5fb2bb-0828-4732-b6d3-5f3052fb2dd0)
 
