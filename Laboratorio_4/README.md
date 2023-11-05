@@ -1,6 +1,6 @@
 ## Código del script utilizado para el desarrollo de la práctica
 
-Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del repositorio.
+Por favor dirigirse a los archivos .mlx, .m y a la carpeta Laboratorio4 en la carpeta Laboratorio_4 del repositorio.
 
 ## Videos del brazo alcanzando cada posición y demostración de uso de la interfaz de usuario :movie_camera:
 
