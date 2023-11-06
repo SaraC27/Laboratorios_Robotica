@@ -2,13 +2,9 @@
 
 Por favor dirigirse a los archivos .mlx, .m y a la carpeta Laboratorio4 en la carpeta Laboratorio_4 del repositorio.
 
-## Videos del brazo alcanzando cada posición y demostración de uso de la interfaz de usuario :movie_camera:
+## Videos del brazo alcanzando cada posición :movie_camera:
 
 https://drive.google.com/drive/folders/1OD4kVfzgjRY9K-GjNyfgDDa5MIRVHVsy?usp=drive_link
-
-## Gráfica digital de las poses comparándola con la fotografía del brazo real en la misma configuración
-
-
 
 ## Descripción de la solución planteada
 
