@@ -14,8 +14,8 @@ Después, se obtuvo la matriz de transformación homogénea desde la base del ro
 
 ![Punto1Cinemática](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/dadb9d80-1475-4f33-b0e7-dd42a9f24faf)
 
-
 Posteriormente, se graficó el robot en su posición de home y así mismo se graficaron distintas posiciones del robot en las que se rotaba sólo una de las articulaciones.
+Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del repositorio.
 
 ![Punto1Home](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/8a03520d-61ac-4c30-ad12-1987302d98b8)
 ![Punto1Posición1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/9f8ce538-c6eb-4c85-a422-1b16b32dea88)
@@ -32,6 +32,7 @@ Por favor dirigirse al archivo read_write.m en la carpeta Laboratorio_4 del repo
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/2c4a4b19-743d-4077-acc7-b50382c5e09c)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/5ee2fd37-aed4-4380-af51-97ad966cd270)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/f57b42fb-23aa-4eff-8c8e-a9009b6b9db1)
+
 
 ## Gráficas digitales de las poses comparándolas con las fotografías del brazo real en la misma configuración
 
@@ -68,9 +69,11 @@ La cuarta pose corresponde a la configuración de q = [80, -35, 40, -45], la cua
 ![Punto2Posición5](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/52b2c8f9-0fc8-4c5d-879d-4dba30df6f69)
 ![Punto2Posición5](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cec8c520-27d2-437d-b475-e0b62bfc0900)
 
+
 ## Código del script utilizado para el desarrollo de la práctica
 
 Por favor dirigirse a los archivos .mlx y .m en la carpeta Laboratorio_4 del repositorio.
+
 
 ## Videos del brazo alcanzando cada posición :movie_camera:
 
