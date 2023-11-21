@@ -1,11 +1,3 @@
-## Código del script utilizado para el desarrollo de la práctica
-
-Por favor dirigirse a los archivos .mlx, .m y a la carpeta Laboratorio4 en la carpeta Laboratorio_4 del repositorio.
-
-## Videos del brazo alcanzando cada posición :movie_camera:
-
-https://drive.google.com/drive/folders/1OD4kVfzgjRY9K-GjNyfgDDa5MIRVHVsy?usp=drive_link
-
 ## Descripción de la solución planteada
 
 Incialmente, se establecieron las longitudes de los eslabones para cada articulación del robot utilizando un calibrador pie de rey.
@@ -38,3 +30,28 @@ A continuación, se realizó la conexión entre el robot y MATLAB por medio de l
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/2c4a4b19-743d-4077-acc7-b50382c5e09c)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/5ee2fd37-aed4-4380-af51-97ad966cd270)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/f57b42fb-23aa-4eff-8c8e-a9009b6b9db1)
+
+## Gráficas digitales de las poses comparándolas con las fotografías del brazo real en la misma configuración
+
+![Punto2Home](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/5c09d362-2052-4c2a-a8de-c4528af5d847)
+![Punto2Home](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/4dcdc07c-302a-423f-8d87-87ab4486eba1)
+
+![Punto2Posición2](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/2584ee11-70dd-42fb-a3b5-2b072ee7a4ec)
+![Punto2Posición2](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/4574de2d-daf7-4b7c-bfbe-b86f601b6a8e)
+
+![Punto2Posición3](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/8e45c923-5f17-4d64-89f3-89c74aa792d6)
+![Punto2Posición3](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/1f7a3c65-c81c-4c97-83f8-4eef633ee6ea)
+
+![Punto2Posición4](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/b3c915df-555f-46e3-b115-b78fb54d9792)
+![Punto2Posición4](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/d69e7bb1-bd7a-411a-83d2-63249ece82c2)
+
+![Punto2Posición5](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/52b2c8f9-0fc8-4c5d-879d-4dba30df6f69)
+![Punto2Posición5](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cec8c520-27d2-437d-b475-e0b62bfc0900)
+
+## Código del script utilizado para el desarrollo de la práctica
+
+Por favor dirigirse a los archivos .mlx, .m y a la carpeta Laboratorio4 en la carpeta Laboratorio_4 del repositorio.
+
+## Videos del brazo alcanzando cada posición :movie_camera:
+
+https://drive.google.com/drive/folders/1OD4kVfzgjRY9K-GjNyfgDDa5MIRVHVsy?usp=drive_link
