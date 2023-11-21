@@ -10,7 +10,7 @@ Luego, teniendo en cuenta las mediciones tomadas, se obtuvieron los parámetros 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/19076585-ed61-4b91-9552-3b1f906ba9d6)
 ![Punto1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/4837773f-d248-4a06-8df8-331ad75d04e5)
 
-Después, se obtuvo la matriz de transformación homogénea desde la base hasta el efector final utilizando las funciones del toolbox de Peter Corke y aplicando la fórmula de la matriz de tranformación homogénea de Denavit Hartenberg en MATLAB.
+Después, se obtuvo la matriz de transformación homogénea desde la base del robot hasta el efector final utilizando las funciones del toolbox de Peter Corke y aplicando la fórmula de la matriz de tranformación homogénea de Denavit Hartenberg en MATLAB.
 
 ![Punto1Cinemática](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/dadb9d80-1475-4f33-b0e7-dd42a9f24faf)
 
