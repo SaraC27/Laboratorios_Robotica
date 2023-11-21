@@ -63,7 +63,7 @@ La cuarta pose corresponde a la configuración de q = [85, -20, 40, 25], la cual
 ![Punto2Posición4](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/b3c915df-555f-46e3-b115-b78fb54d9792)
 ![Punto2Posición4](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/d69e7bb1-bd7a-411a-83d2-63249ece82c2)
 
-La quinta pose corresponde a la configuración de q = [80, -35, 40, -45], la cual se puede apreciar en la fotografía del robot real y en la gráfica obtenida en MATLAB utilizando el toolbox RVC1.
+La quinta y última pose corresponde a la configuración de q = [80, -35, 40, -45], la cual se puede apreciar en la fotografía del robot real y en la gráfica obtenida en MATLAB utilizando el toolbox RVC1.
 
 ![Punto2Posición5](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/52b2c8f9-0fc8-4c5d-879d-4dba30df6f69)
 ![Punto2Posición5](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cec8c520-27d2-437d-b475-e0b62bfc0900)
