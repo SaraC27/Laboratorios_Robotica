@@ -15,8 +15,7 @@ Después, se obtuvo la matriz de transformación homogénea desde la base del ro
 ![Punto1Cinemática](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/dadb9d80-1475-4f33-b0e7-dd42a9f24faf)
 
 Posteriormente, se graficó el robot en su posición de home y así mismo se graficaron distintas posiciones del robot en las que se rotaba sólo una de las articulaciones.
-
-Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del repositorio.
+(Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del repositorio.)
 
 ![Punto1Home](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/8a03520d-61ac-4c30-ad12-1987302d98b8)
 ![Punto1Posición1](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/9f8ce538-c6eb-4c85-a422-1b16b32dea88)
@@ -25,7 +24,7 @@ Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del 
 ![Punto1Posición4](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/e8d3c623-6549-41b1-9844-be657765fb8a)
 
 A continuación, se realizó la conexión entre el robot y MATLAB por medio de las funciones que ofrecen las librerías de Dynamixel, así se conoció la posición objetivo y la posición presente de cada una de las articulaciones.
-Por favor dirigirse al archivo read_write.m en la carpeta Laboratorio_4 del repositorio.
+(Por favor dirigirse al archivo read_write.m en la carpeta Laboratorio_4 del repositorio.)
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/be5fb2bb-0828-4732-b6d3-5f3052fb2dd0)
 
@@ -39,7 +38,7 @@ Por favor dirigirse al archivo read_write.m en la carpeta Laboratorio_4 del repo
 
 Seguidamente, se definieron las poses deseadas del robot a partir de los valores articulares sugeridos en el enunciado del laboratorio, sin embargo, algunos valores articulares se ajustaron considerando los límites y el espacio de trabajo del robot. De esta forma, se enviaron dichas configuraciones al robot real. Así mismo, se obtuvieron los valores articulares de la pose actual del robot real en MATLAB empleando las funciones que ofrecen las librerías de Dynamixel.
 
-Por favor dirigirse al archivo Mov2Pose.m en la carpeta Laboratorio_4 del repositorio.
+(Por favor dirigirse al archivo Mov2Pose.m en la carpeta Laboratorio_4 del repositorio.)
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/54378252-c447-4368-93ee-68790a5d3940)
 
