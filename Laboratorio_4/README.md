@@ -37,12 +37,11 @@ A continuación, se realizó la conexión entre el robot y MATLAB por medio de l
 ## Gráficas digitales de las poses comparándolas con las fotografías del brazo real en la misma configuración
 
 Seguidamente, se definieron las poses deseadas del robot a partir de los valores articulares sugeridos en el enunciado del laboratorio, sin embargo, algunos valores articulares se ajustaron considerando los límites y el espacio de trabajo del robot. De esta forma, se enviaron dichas configuraciones al robot real. Así mismo, se obtuvieron los valores articulares de la pose actual del robot real en MATLAB empleando las funciones que ofrecen las librerías de Dynamixel.
-
 (Por favor dirigirse al archivo Mov2Pose.m en la carpeta Laboratorio_4 del repositorio.)
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/54378252-c447-4368-93ee-68790a5d3940)
 
-De la misma manera, utilizando las funciones del toolbox de Peter Corke y los valores articulares de la configuración actual del robot real obtenidos a través de MATLAB, se graficaron las poses del robot para cada una de las configuraciones deseadas y se compararon con las poses del robot real. En consecuencia se pudo evidenciar que efectivamente coincidían.
+Del mismo modo, utilizando las funciones del toolbox de Peter Corke y los valores articulares de la configuración actual del robot real obtenidos a través de MATLAB, se graficaron las poses del robot para cada una de las configuraciones deseadas y se compararon con las poses del robot real. En consecuencia se pudo evidenciar que efectivamente coincidían.
 
 La primera pose corresponde a la configuración de home donde q = [0 0 90 0], la cual se puede apreciar en la fotografía del robot real y en la gráfica obtenida en MATLAB utilizando el toolbox RVC1.
 
