@@ -35,7 +35,8 @@ Por favor dirigirse al archivo read_write.m en la carpeta Laboratorio_4 del repo
 
 ## Gráficas digitales de las poses comparándolas con las fotografías del brazo real en la misma configuración
 
-Seguidamente, se definieron las poses deseadas del robot a partir de los valores articulares sugeridos en el enunciado del laboratorio, sin embargo, algunos valores articulares se ajustaron considerando los límites y el espacio de trabajo del robot. De esta forma, se enviaron estas configuraciones al robot real. Así mismo, se obtuvieron los valores articulares de la pose actual del robot real en MATLAB empleando las funciones que ofrecen las librerías de Dynamixel.
+Seguidamente, se definieron las poses deseadas del robot a partir de los valores articulares sugeridos en el enunciado del laboratorio, sin embargo, algunos valores articulares se ajustaron considerando los límites y el espacio de trabajo del robot. De esta forma, se enviaron dichas configuraciones al robot real. Así mismo, se obtuvieron los valores articulares de la pose actual del robot real en MATLAB empleando las funciones que ofrecen las librerías de Dynamixel.
+
 Por favor dirigirse al archivo Mov2Pose.m en la carpeta Laboratorio_4 del repositorio.
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/54378252-c447-4368-93ee-68790a5d3940)
