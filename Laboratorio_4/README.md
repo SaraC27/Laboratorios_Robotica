@@ -15,7 +15,6 @@ Después, se obtuvo la matriz de transformación homogénea desde la base del ro
 ![Punto1Cinemática](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/dadb9d80-1475-4f33-b0e7-dd42a9f24faf)
 
 Posteriormente, se graficó el robot en su posición de home y así mismo se graficaron distintas posiciones del robot en las que se rotaba sólo una de las articulaciones.
-
 Por favor dirigirse al archivo Laboratorio4.mlx en la carpeta Laboratorio_4 del repositorio.
 
 ![Punto1Home](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/8a03520d-61ac-4c30-ad12-1987302d98b8)
