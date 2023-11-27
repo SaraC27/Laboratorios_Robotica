@@ -1,3 +1,17 @@
+# Lab 5 - Cinemática Inversa - Robot Phantom X - ROS
+
+### Contenido
+
+1. [Descripción de la solución planteada](#modelo-de-cinemática-inversa)
+1. [Script en Matlab](#script-en-python-snake)
+1. [Resultados](#resultados)
+3. [Conclusiones](#conclusiones-page_facing_up)
+5. [Referencias](#referencias-openbook)
+
+6. [Autores](#autores-blacknib)
+
+
+
 ## Descripción de la solución planteada
 
 Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB.
