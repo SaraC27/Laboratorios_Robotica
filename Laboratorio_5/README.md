@@ -14,7 +14,7 @@
 
 ## Descripción de la solución planteada
 
-Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB, para así encontrar los ángulos correspondientes en cada eslabón del robot según la posición que se desea alcanzar, para ello se realizó el análisis con el robot en codo arriba.
+Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB, para así encontrar los ángulos correspondientes en cada eslabón del robot según la posición que se desea alcanzar, para ello se realizó el análisis con el robot en codo arriba, además se tuvo en cuenta los parametrós de las distancias tomadas con el calibrador. 
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/607e1a65-aa21-4771-a872-1bf346eab31f)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/ba45c83d-59d3-48a2-abf3-03c502666c7f)
