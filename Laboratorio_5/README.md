@@ -4,11 +4,9 @@
 
 1. [Descripción de la solución planteada](#descripción-de-solución)
 2. [Cinemática Inversa](#cinemática-inversa)
-1. [Planteamiento del problema](#script-en-MatLab-snake)
-1. [Resultados](#resultados)
-3. [Conclusiones](#conclusiones-page_facing_up)
-5. [Referencias](#referencias-openbook)
-
+3. [Planteamiento del problema](#script-en-MatLab-snake)
+4. [Resultados](#resultados)
+5. [Conclusiones](#conclusiones-page_facing_up)
 6. [Autores](#autores-blacknib)
 
 
@@ -83,12 +81,20 @@ En este laboratorio se desea generar una rutina con el robot Phantom X la cual i
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/51d077ec-99d9-49cb-8f61-35f0c7d19650)
 
-Por favor dirigirse al archivo XX en la carpeta Laboratorio_5 del repositorio.
-
-
 
 ## Resultados
 
 A continuación se presentan los resultados obtenidos en el ejercicio. Por el tamaño de los videos se muestra únicamente el link:
 
 https://drive.google.com/drive/folders/1a_n3YF4gj1yGFNAPMoEypM68RW1Xoy6u?usp=drive_link
+
+## Conclusiones
+- Se debe tener en cuenta la cantidad de puntos a enviar al robot pincher, ya que si se enviaban muchos puntos a la vez se saturaba la salida y el robot dejaba de responder. Adicionalmente, se presentaba un desfase en el eje Z, que aumentaba conforme se ponían más puntos en un mismo trazo, esto provocaba que al final de un dibujo el marcador ya no estuviera sobre la superficie.
+
+Se hace necesaria la verificación del robot al inicio de cada práctica, ya que existe la posibilidad de que se haya generado algún desfase en algún eslabón, haciendo parecer que hay errores de código cuando esto se puede corregir simplemente sumando un ángulo al eslabón correcto.
+
+## Autores
+
+Yuli Fernanda Alpala Cuaspa
+Sara Valentina Cardona Mejia
+
