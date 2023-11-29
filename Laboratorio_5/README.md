@@ -26,12 +26,7 @@ Se realiza la verificación de la matriz mediante el toolbox de Peter Corke en M
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/750e8e2c-8073-4370-a99e-30939b4c1ccc)
 
 
-Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB, para así encontrar los ángulos correspondientes en cada eslabón del robot según la posición que se desea alcanzar, para ello se realizó el análisis con el robot en codo abajo, además se tuvo en cuenta los parametrós de las distancias tomadas con el calibrador. 
-
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/607e1a65-aa21-4771-a872-1bf346eab31f)
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/ba45c83d-59d3-48a2-abf3-03c502666c7f)
-
-##Cinemática Inversa
+## Cinemática Inversa
 Para llevar a cabo la cinemática inversa, el enfoque fundamental implicó la obtención de valores del efector final en posiciones específicas con el objetivo de definir trayectrias que satisfagan los requisitos establecidos. Cada punto P, asociado a una posición de efector final, se descompone en coordenadas cartesianas (x,y) para organizar los puntos con respecto a un sistema de coordenadas ubicado en la base del robot. 
 
 De acuerdo a lo anterior se establece el siguiente sistema de coordenadas: 
@@ -51,10 +46,17 @@ Para el plano z-r, se tiene:
 
 A través del esquema simplificado mancionado anteriormente, se determinan los valores de q2 y q3, con enfoque parcial en q4 y gestionando desde la muñeca. Se configura en triángulo evidenciado por la línea verde y, mediante cálculos necesarios y considerando la disposición del robot con el codo arriba, se obtienen los valores correspondientes a q2 y q3, tal como se detallan en el código. En cuanto a q4, se busca mantenerlo constantemente en un ángulo específico respecto a la horizontal. Con base en esta premisa, se realiza fácilmente la cinemática inversa para q4, como se expres en las ecuaciones de las funciones para determinar cada uno de sus valores. 
 
-A continuación podemos ver e código implementado en MatLab.
+Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB, para así encontrar los ángulos correspondientes en cada eslabón del robot según la posición que se desea alcanzar, para ello se realizó el análisis con el robot en codo arriba, además se tuvo en cuenta los parametrós de las distancias tomadas con el calibrador. 
 
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/c930ddd9-e22f-4489-a56d-188cafaefd94)
 
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/8eb34778-abc7-47d1-87ef-debe6ec02074)
 
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/f03e06fb-0dd7-46f6-91db-dcea4a5fc29f)
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/f6a84092-581c-4160-b842-a04667be99be)
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/5d7501f5-2fbd-49f5-81f3-6b38fc8b8fc9)
 
 
 ## Código de las rutinas creadas
