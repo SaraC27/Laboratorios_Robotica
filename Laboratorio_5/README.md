@@ -95,6 +95,6 @@ https://drive.google.com/drive/folders/1a_n3YF4gj1yGFNAPMoEypM68RW1Xoy6u?usp=dri
 
 ## Autores
 
-Yuli Fernanda Alpala Cuaspa
-Sara Valentina Cardona Mejia
+- Yuli Fernanda Alpala Cuaspa  
+- Sara Valentina Cardona Mejia
 
