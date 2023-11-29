@@ -83,7 +83,7 @@ En la siguiente sección se configura el puerto en el momento que se desee hacer
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/0f782b04-a459-44e4-a0fc-22f373bbd94c)
 
 
-En las siguientes imágens podemos observar como se habilita y se cambia el torque con direcciones de memoria, se calcula el valor de un bit de un angulo con cierto desfase. 
+En las siguientes imágens podemos observar como se habilita y se cambia el torque con direcciones de memoria, se calcula el valor de un bit de un angulo con cierto desfase. .
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/a96b21a0-734f-4245-9bc9-6b5ff8f0487c)
 
