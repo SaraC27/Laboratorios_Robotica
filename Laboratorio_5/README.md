@@ -4,7 +4,7 @@
 
 1. [Descripción de la solución planteada](#descripción-de-solución)
 2. [Cinemática Inversa](#cinemática-inversa)
-1. [Código de la solución planteada](#script-en-MatLab-snake)
+1. [Planteamiento del problema](#script-en-MatLab-snake)
 1. [Resultados](#resultados)
 3. [Conclusiones](#conclusiones-page_facing_up)
 5. [Referencias](#referencias-openbook)
@@ -59,37 +59,31 @@ Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB,
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/5d7501f5-2fbd-49f5-81f3-6b38fc8b8fc9)
 
 
-## Código de las rutinas creadas
+## Planteamiento del problema
 En este laboratorio se desea generar una rutina con el robot Phantom X la cual implemente las siguientes tareas: 
 
-#Cargar la herramienta
-El robot debe tener la capacidad de tomar el marcador en su posición inicial para poder realizar las figuras sobre la superficie como el propone en la práctica. 
+ - Cargar la herramienta
+   El robot debe tener la capacidad de tomar el marcador en su posición inicial para poder realizar las figuras sobre la superficie como el propone en la práctica. 
+
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/40b87556-652f-4938-9d19-5811263c6dba)
 
+ - Dibujo del espacio de trabajo
+   Se debe acotar el espacio del trabajo mediante la intersección de dos secciones de arco con radios distinetos. El radio máximo y el radio mínimo estan dados por limites articulares del Robot
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/d55dcb52-7a19-4293-a1c8-44dee607a8d0)
+
+ - Dibujo de figura en estilo libre e iniciales de nombre
+   Se debe realizar una figura libre que integre lineas y curvas. además de las iniciales de los nombres del grupo de trabajo.
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/52d4bf0c-1aef-4b27-94a2-d55acaa51f61)
+
+
+ - Descargar la herramienta
+   Como rutina final, el robot debe regresar al marcador a su posición inicial. 
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/51d077ec-99d9-49cb-8f61-35f0c7d19650)
 
 Por favor dirigirse al archivo XX en la carpeta Laboratorio_5 del repositorio.
-
-En al primera parte tenemos las configuraciones iniciales que lo que se hace es limpiar memoria y se crean todas las variables y protocolos de los motres, tamnién se realizan las configuraciones del puerto.
-
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/01def9e4-40d9-4423-8bae-17e7823f5a43)
-
-También se tiene la tabla de direcciones ya que todo el robot se controla cambiando las direcciones de una valor de la tabla. 
-
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/003da4c7-62b8-4f5b-966d-e0e2ca5bcf37)
-
-En la siguiente sección se configura el puerto en el momento que se desee hacerlo, podemos observar el codigo y en la ventana de comando la conexión exitosa.
-
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/a36c0248-2ded-46fe-bb2d-7b46241faf2a)
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/0f782b04-a459-44e4-a0fc-22f373bbd94c)
-
-
-En las siguientes imágens podemos observar como se habilita y se cambia el torque con direcciones de memoria, se calcula el valor de un bit de un angulo con cierto desfase. .
-
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/a96b21a0-734f-4245-9bc9-6b5ff8f0487c)
-
-
-
-
 
 
 
