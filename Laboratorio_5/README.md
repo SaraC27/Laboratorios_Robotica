@@ -80,7 +80,7 @@ En este laboratorio se desea generar una rutina con el robot Phantom X la cual i
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/4231ef73-5733-432c-a969-8e81d75ab870)
 
-
+Para verficar el desarrollo de código para los procesos anteriormente mencionados dirigirse a la subcarpeta Codigo_Laboratorio5 en la carpeta Laboratorio_5 del repositorio. 
 
 ## Resultados
 
