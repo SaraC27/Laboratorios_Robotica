@@ -58,23 +58,23 @@ Inicialmente, se desarrolló la cinemática inversa del robot utilizando MATLAB,
 ## Planteamiento del problema
 En este laboratorio se desea generar una rutina con el robot Phantom X la cual implemente las siguientes tareas: 
 
- - Cargar la herramienta
+ - **Cargar la herramienta:**
    El robot debe tener la capacidad de tomar el marcador en su posición inicial para poder realizar las figuras sobre la superficie como el propone en la práctica. 
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/40b87556-652f-4938-9d19-5811263c6dba)
 
- - Dibujo del espacio de trabajo
+ - **Dibujo del espacio de trabajo:**
    Se debe acotar el espacio del trabajo mediante la intersección de dos secciones de arco con radios distinetos. El radio máximo y el radio mínimo estan dados por limites articulares del Robot
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/d55dcb52-7a19-4293-a1c8-44dee607a8d0)
 
- - Dibujo de figura en estilo libre e iniciales de nombre
+ - **Dibujo de figura en estilo libre e iniciales de nombre:**
    Se debe realizar una figura libre que integre lineas y curvas. además de las iniciales de los nombres del grupo de trabajo.
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/52d4bf0c-1aef-4b27-94a2-d55acaa51f61)
 
 
- - Descargar la herramienta
+ - **Descargar la herramienta:**
    Como rutina final, el robot debe regresar al marcador a su posición inicial. 
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/51d077ec-99d9-49cb-8f61-35f0c7d19650)
@@ -89,7 +89,7 @@ https://drive.google.com/drive/folders/1a_n3YF4gj1yGFNAPMoEypM68RW1Xoy6u?usp=dri
 ## Conclusiones
 - Se debe tener en cuenta la cantidad de puntos a enviar al robot pincher, ya que si se enviaban muchos puntos a la vez se saturaba la salida y el robot dejaba de responder. Adicionalmente, se presentaba un desfase en el eje Z, que aumentaba conforme se ponían más puntos en un mismo trazo, esto provocaba que al final de un dibujo el marcador ya no estuviera sobre la superficie.
 
-Se hace necesaria la verificación del robot al inicio de cada práctica, ya que existe la posibilidad de que se haya generado algún desfase en algún eslabón, haciendo parecer que hay errores de código cuando esto se puede corregir simplemente sumando un ángulo al eslabón correcto.
+- Se hace necesaria la verificación del robot al inicio de cada práctica, ya que existe la posibilidad de que se haya generado algún desfase en algún eslabón, haciendo parecer que hay errores de código cuando esto se puede corregir simplemente sumando un ángulo al eslabón correcto.
 
 ## Autores
 
