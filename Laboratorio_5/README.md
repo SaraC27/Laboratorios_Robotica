@@ -73,11 +73,13 @@ En este laboratorio se desea generar una rutina con el robot Phantom X la cual i
 
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/52d4bf0c-1aef-4b27-94a2-d55acaa51f61)
 
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/51d077ec-99d9-49cb-8f61-35f0c7d19650)
 
  - **Descargar la herramienta:**
    Como rutina final, el robot debe regresar al marcador a su posición inicial. 
 
-![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/51d077ec-99d9-49cb-8f61-35f0c7d19650)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/4231ef73-5733-432c-a969-8e81d75ab870)
+
 
 
 ## Resultados
