@@ -38,3 +38,5 @@ A nivel mundial, las tiendas automatizadas y los carritos inteligentes se estaba
 En colombia, el avance de la tecnología y la adopción de soluciones innovdoras en el comercio dependen de factores como la infraestructura tecnológica disponible, la aceptación del mercado, las regulaciones y la disposición de las empresas a invertir en soluciones tecnológicas avanzadas; a mediano y a largo plazo los beneficios son significativos, sobre todo por los ahorros que se llegan a generar. 
 
 Por ejemplo, en el caso de la iluminación, se tienen sensores para determinar cuándo y cómo hay que encender la luz en ciertas áreas del sitio de trabajo. lo mismo ocurre con la tolda. 
+
+En la actualidad estos esquemas están presentes en grandes proyectos 
