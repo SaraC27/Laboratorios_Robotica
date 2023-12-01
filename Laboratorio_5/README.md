@@ -4,10 +4,11 @@
 
 1. [Descripción de la solución planteada](#descripción-de-solución)
 2. [Cinemática Inversa](#cinemática-inversa)
-3. [Planteamiento del problema](#script-en-MatLab-snake)
-4. [Resultados](#resultados)
-5. [Conclusiones](#conclusiones-page_facing_up)
-6. [Autores](#autores-blacknib)
+3. [Cinemática Inversa](#cinemática-inversa)
+4. [Planteamiento del problema](#script-en-MatLab-snake)
+5. [Resultados](#resultados)
+6. [Conclusiones](#conclusiones-page_facing_up)
+7. [Autores](#autores-blacknib)
    
 ## Descripción de la solución planteada
 En primer lugar, se procedio a reconocer la configuración cinemática del robot y a establecer las dimensiones de los eslabones que lo conforman. Una vez definidas las dimensiones de los eslabones, se establece la posición inicial, denominada "home", y luego se realiza el cálculo de la matriz Denavit-Hartenberg (DH), teniendo en consideración los desplazamientos para cada articulación. 
