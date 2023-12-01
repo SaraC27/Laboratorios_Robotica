@@ -4,7 +4,7 @@
 
 1. [Descripción de la solución planteada](#descripción-de-solución)
 2. [Cinemática Inversa](#cinemática-inversa)
-3. [Cinemática Inversa](#cinemática-inversa)
+3. [Descripción de la base porta herramienta y marcador utilizado](#cinemática-inversa)
 4. [Planteamiento del problema](#script-en-MatLab-snake)
 5. [Resultados](#resultados)
 6. [Conclusiones](#conclusiones-page_facing_up)
@@ -22,6 +22,11 @@ Se realiza la verificación de la matriz mediante el toolbox de Peter Corke en M
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/dd0a4920-d8df-4bd7-a2dd-a260e36f4f9b)
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/750e8e2c-8073-4370-a99e-30939b4c1ccc)
 
+## Descripción de la base portaherramienta y marcador
+Se utilizó una base porta herramientas ya diseñada para mayor facilidad, en ella se ubicó el marcador como se puede evidenciar en las siguientes imagenes y esta se colocó sobre el espacio de trabajo (Tablero). Se tuvieron en cuenta tanto las dimensiones como la ubicación de la base porta herramientas y del marcador para luego programar las rutinas requeridas. 
+
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/8669fe4e-529c-481d-86c2-508e83efdf23)
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/49196938/cfab4f9c-dfe5-4b8a-8ec0-2cd89577fa51)
 
 ## Cinemática Inversa
 Para llevar a cabo la cinemática inversa, el enfoque fundamental implicó la obtención de valores del efector final en posiciones específicas con el objetivo de definir trayectrias que satisfagan los requisitos establecidos. Cada punto P, asociado a una posición de efector final, se descompone en coordenadas cartesianas (x,y) para organizar los puntos con respecto a un sistema de coordenadas ubicado en la base del robot. 
