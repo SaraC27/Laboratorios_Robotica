@@ -17,7 +17,7 @@ En cada una de las rutinas, se tuvieron en cuenta las recomendaciones del enunci
 
 Luego de terminar el código, se efectúo la visita presencial a la empresa Control de Movimiento. Allí, se atendió a la explicación de los ingernieros sobre el robot SCARA de EPSON y su programación, lo cual llevó a que se corrigieran algunas de las rutinas del código desarrollado.
 
-
+![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cc58a80d-bbb3-4428-a8c7-621294b1b8ea)
 
 Finalmente, se definió el espacio de trabajo del robot, se ejecturaon las rutinas del código y se observó su funcionamiento. Asimismo se realizaron preguntas y se resolvieron las dudas surgidas en el proceso tanto de la programación como de la implementación del código y el funcionamiento del robot.
 
