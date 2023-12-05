@@ -20,6 +20,7 @@ Luego de terminar el código, se efectúo la visita presencial a la empresa Cont
 ![image](https://github.com/SaraC27/Laboratorios_Robotica/assets/80609467/cc58a80d-bbb3-4428-a8c7-621294b1b8ea)
 
 Finalmente, se definió el espacio de trabajo del robot, se ejecturaon las rutinas del código y se observó su funcionamiento. Asimismo se realizaron preguntas y se resolvieron las dudas surgidas en el proceso tanto de la programación como de la implementación del código y el funcionamiento del robot.
+Cabe resaltar que el espacio de trabajo del robot SCARA de EPSON se realizó de forma manual, a diferencia de este mismo procedimiento en el robot IRB140 de ABB, que se lleva a cabo moviendo sus articulaciones a través de código.
 
 
 ## Código del programa implementado para la práctica
